@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110307997984",
+    "firebase_url": "https://testnonstopetc-default-rtdb.firebaseio.com",
+    "project_id": "testnonstopetc",
+    "storage_bucket": "testnonstopetc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110307997984:android:cb68981fee4aa6741dff45",
+        "android_client_info": {
+          "package_name": "com.example.speedmeasuring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110307997984-fa6r4veke3ic9hnchvahd0b48dil1jle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ks7LzdI0Mf-UX7HV71fL74QaIFFN-yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110307997984-fa6r4veke3ic9hnchvahd0b48dil1jle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
